@@ -1,0 +1,118 @@
+body{
+	background-color: lightblue;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-family: verdana;
+    font-size: 40px;
+}
+
+h2{
+	color: gray;
+	text-align: center;
+	font-family: arial;
+	font-size: 30px
+}
+
+h3{
+	color: #2056a1;
+	text-align: center;
+	font-family: tahoma;
+	font-style: italic;
+}
+
+table{
+	border: double;
+	color: blue
+}
+
+ol{
+	color: white;
+	text-align: center;
+	border-top: 6px solid red;
+	border-bottom: 6px solid red;
+	background-color: gray;
+	font-weight: bold italic;
+}
+
+ul{
+	color: blue;
+	text-shadow: 2px 2px white;
+	border-bottom: double white 2px;
+	border-left: dashed blue;
+}
+
+p{
+	color: purple;
+	font-family: times;
+	font-size: 25px;
+	border-style: double;
+	border-radius: 5px;
+}
+
+a:hover{
+	background-color: yellow;
+
+}
+
+*{
+	background-color: #aaaaaa;
+}
+
+
+ol>li{
+color: red;
+}
+
+.tableclass{
+color: blue;
+}
+
+.redboldclass{
+	color:red;
+	font-family: georgia;
+	font-weight: bold;
+	border-color: black;
+	border-style: dashed;
+}
+
+.boarderdashedclass{
+	background-color: white;
+	border: dashed;
+}
+
+.blueborderclass{
+	color: blue;
+	border-style: 10px dashed blue;
+}
+
+.yellowblackshadowclass{
+	font-family: times;
+	background-color: yellow;
+	text-shadow: 4px 4px black;
+	}
+
+
+.p2class{
+	background: white;
+	text-decoration: bold;
+	border: none;
+	border-radius: 0px;
+}
+
+.parentclass{
+	color: 
+	text-align: 
+	border-top: 6px solid red;
+	border-bottom: 6px solid red;
+	background-color: gray;
+	font-weight: bold italic;
+
+}
+#bigID{
+	color: #593159;
+	text-decoration: underline;
+	font-size: 24px;
+}
